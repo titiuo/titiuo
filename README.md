@@ -6,7 +6,7 @@
 📫 **How to reach me**: titouan.duhaze@telecom-paris.fr
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=titiuo&show_icons=true)
 
 ## 📊 **Notable Projects**
 
