@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  🎓 <strong>Computer Science and Applied Mathematics student at Télécom Paris</strong>  
-  🔍 Specializing in the mathematical foundations and advanced techniques of machine learning, computer vision, and data analysis.  
+  🎓 <strong>Computer Science and Applied Mathematics student at Télécom Paris</strong>    
+  🔍 Specializing in the mathematical foundations and advanced techniques of machine learning, computer vision, and data analysis.   
   📊 Currently exploring innovative methods in statistical modeling and deep learning.  
-  📫 <strong>How to reach me</strong>: titouan.duhaze@telecom-paris.fr
+  📫 <strong>How to reach me</strong>: titouan.duhaze@telecom-paris.fr  
 </p>
 
 ---
