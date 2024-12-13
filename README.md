@@ -1,16 +1,32 @@
-## Hi there 👋
+# ✌️ Hi, I'm Titouan!
 
-<!--
-**titiuo/titiuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✈  **Engineering Student at [Télécom Paris](https://www.telecom-paris.fr/)**
 
-Here are some ideas to get you started:
+## 📚 **Background**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **🏢 Education**: Imaging and AI Engineering at Télécom Paris.
+- **⚙️ Skills**: Machine Learning, Deep Learning, Optimization, Image Processing, Time Series Analysis.
+- **🏦 Experience**: Upcoming internship at Amundi in quantitative finance.
+
+---
+
+## 🤖 **Technical Skills**
+
+- **Languages**: Python, C++, Java, R
+- **Tools & Libraries**: TensorFlow, PyTorch, NumPy, Pandas, OpenCV
+- **Notebooks**: VSCode, Jupyter
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 📊 **Notable Projects**
+
+### ⚡ [Left Ventricle Segmentation in Cardiac MRI](https://github.com/Mamannne)
+- **Description**: Segmenting the left ventricle in MRI scans of 150 patients without AI.
+- **Collaboration**: Project completed in collaboration with [Mamannne](https://github.com/Mamannne).
+
+### 📊 **Financial Time Series Analysis**
+- **Description**: Forecasting and analyzing financial markets using statistical and machine learning models.
+
+---
