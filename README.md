@@ -2,7 +2,7 @@
   <h1>✌️ Hi, I'm Titouan!</h1>
 </p>
 
-<p align="center">
+<p>
   🎓 <strong>Computer Science and Applied Mathematics student at Télécom Paris</strong><br>
   🔍 Specializing in the mathematical foundations and advanced techniques of machine learning, computer vision, and data analysis.<br>
   📊 Currently exploring innovative methods in statistical modeling and deep learning.<br>
