@@ -29,6 +29,9 @@
 
 ### 🖼️ **[Normalized Compression Distances for NFT](https://github.com/titiuo/Normalized-Compression-Distances-for-NFT)**
 - **Description**: The project uses normalized compression distances to measure the similarity between NFTs based on their digital content and estimate their prices.
-- **Collaboration**: Project completed in collaboration with [Nathan Rouillé](https://github.com/NathanRouille).
+- **Collaboration**: Project completed in collaboration with [Nathan Rouillé](https://github.com/NathanRouille).  
   
+### 🖼️ **[PowerDot Hackathon](https://github.com/Bastaxeloux/PowerDot-Hackathon)**
+- **Description**: The goal of our project was to leverage machine learning to proactively detect patterns leading to charger failures. Through predictive modeling, our solution intends to reduce downtime, improve service quality, and optimize maintenance operations.
+- **Collaboration**: Project completed in collaboration with [Aymane Hamdaoui](https://github.com/Mamannne), [Nathan Rouillé](https://github.com/NathanRouille), [Adam Chgour](https://github.com/adamchgour) and [Maël Le Guillouzic](https://github.com/Bastaxeloux).
 ---
