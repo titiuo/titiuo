@@ -31,6 +31,11 @@
 
 ---
 
+### LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Titouan_Duhaze?theme=dark&font=baloo)](https://leetcode.com/u/Titouan_Duhaze/)
+
+---
+
 ### **Notable Projects**
 #### 🫀 **[Left Ventricle Segmentation in Cardiac MRI](https://github.com/titiuo/Segmentation-IRM)**
 - Segmenting the left ventricle in MRI scans **without AI** (traditional image processing).
