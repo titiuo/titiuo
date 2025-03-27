@@ -31,7 +31,7 @@
 
 ---
 
-### 📊 **LeetCode Progress** 
+### 📊 **LeetCode Stats** 
 <p align="center">
   <a href="https://leetcode.com/u/Titouan_Duhaze/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/Titouan_Duhaze?theme=dark&font=baloo" alt="LeetCode Stats"/>
