@@ -33,7 +33,9 @@
 
 ### 📊 **LeetCode Progress** 
 <p align="center">
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/Titouan_Duhaze?theme=dark&font=baloo)](https://leetcode.com/u/Titouan_Duhaze/)
+  <a href="https://leetcode.com/u/Titouan_Duhaze/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Titouan_Duhaze?theme=dark&font=baloo" alt="LeetCode Stats"/>
+  </a>
 </p>
 
 ---
