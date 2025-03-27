@@ -51,5 +51,5 @@
 
 ### 📫 **Let's Connect!**
 - 📧 **Email**: [titouan.duhaze@telecom-paris.fr](mailto:titouan.duhaze@telecom-paris.fr)
-- 💼 **LinkedIn**: [Your Name](https://www.linkedin.com/in/[titouan-duhaze])
-- 🔥 **LeetCode**: [Your Profile](https://leetcode.com/u/[Titouan_Duhaze])
+- 💼 **LinkedIn**: [Titouan Duhazé](https://www.linkedin.com/in/titouan-duhaze/)
+- 🔥 **LeetCode**: [Titouan_Duhaze](https://leetcode.com/u/Titouan_Duhaze/)
