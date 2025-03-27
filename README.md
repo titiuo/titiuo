@@ -31,8 +31,9 @@
 
 ---
 
-### LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Titouan_Duhaze?theme=dark&font=baloo)](https://leetcode.com/u/Titouan_Duhaze/)
+### 🏆 **LeetCode Progress** 🏆
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Titouan_Duhaze?theme=dark&font=baloo&ext=heatmap&border=10&radius=20)](https://leetcode.com/u/Titouan_Duhaze/)
 
 ---
 
