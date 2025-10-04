@@ -32,6 +32,10 @@
 ---
 
 ### **Notable Projects**
+#### 🎨 **[Unsupervised Classification of Artworks](https://github.com/titiuo/Automatic-classification-of-works-of-art)**
+- **Unsupervised ML** clustering of 8,700 paintings by visual and semantic features (color, texture, ResNet, CLIP, PCA, k-means).  
+- **Team**: [Ethan Lazimy](https://github.com/EthanLaz), [Titouan Duhazé](https://github.com/titiuo), [Noé Mosca](https://github.com/noe-mosca).
+  
 #### 🫀 **[Left Ventricle Segmentation in Cardiac MRI](https://github.com/titiuo/Segmentation-IRM)**
 - Segmenting the left ventricle in MRI scans **without AI** (traditional image processing).
 - **Collaborators**: [Aymane Hamdaoui](https://github.com/Mamannne).
