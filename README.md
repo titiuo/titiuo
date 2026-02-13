@@ -22,6 +22,11 @@
 ---
 
 ### **Notable Projects**
+
+#### 🚶 **[Personalized Convolutional Dictionary Learning](https://github.com/titiuo/PerCDL-PyTorch)**
+- PyTorch implementation of **Personalized Convolutional Dictionary Learning** for extracting interpretable, subject-specific patterns from multi-sensor gait analysis data using sparse coding.  
+- **Collaborators**: [Aymane Hamdaoui](https://github.com/Mamannne).
+
 #### 🎨 **[Unsupervised Classification of Artworks](https://github.com/titiuo/Automatic-classification-of-works-of-art)**
 - **Unsupervised ML** clustering of 8,700 paintings by visual and semantic features (color, texture, ResNet, CLIP, PCA, k-means).  
 - **Team**: [Ethan Lazimy](https://github.com/EthanLaz), [Titouan Duhazé](https://github.com/titiuo), [Noé Mosca](https://github.com/noe-mosca).
