@@ -1,15 +1,14 @@
 <p align="center">
   <h1>✌️ Hi, I'm Titouan!</h1>
-  <h3>CS & Applied Math Student @ Télécom Paris | ML & Computer Vision</h3>
+  <h3>CS & Applied Math Student @ Télécom Paris | MVA Master's @ ENS Paris-Saclay</h3>
 </p>
 
 ---
 
 ### 🚀 **About Me**
 - 🎓 **Computer Science & Applied Mathematics** student at **Télécom Paris**.
-- 🔍 Passionate about **Machine Learning, Computer Vision, and Blockchain**.
-- 📊 Currently diving into **statistical modeling, deep learning, and on-chain analytics**.
-- 🏆 **Competitive Programming**: Active on LeetCode and coding contests.
+- 🔍 Passionate about **Machine Learning, Computer Vision**.
+- 📊 Currently diving into **statistical modeling, deep learning**.
 
 ---
 
@@ -19,15 +18,6 @@
 | **ML/CV**        | PyTorch, TensorFlow, OpenCV, Scikit-learn                  |
 | **Blockchain**   | Injective Protocol                                         |
 | **Data Science** | Pandas, NumPy, Matplotlib, SQL                             |
-
-
----
-
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=titiuo&show_icons=true&hide_title=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titiuo&layout=compact&hide_border=true&theme=github_dark" alt="Top Langs" />
-</p>
 
 ---
 
